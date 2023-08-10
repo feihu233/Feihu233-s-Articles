@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+
+-<Settings version="4.4.170" component="StartMenu">
+
+<MenuStyle value="Classic1"/>
+
+<ShiftRight value="1"/>
+
+<Documents value="Hide"/>
+
+<UserFiles value="Hide"/>
+
+<UserDocuments value="Hide"/>
+
+<UserPictures value="Hide"/>
+
+<ControlPanelCategories value="0"/>
+
+<Network value="Hide"/>
+
+<Printers value="Show"/>
+
+<LogOff value="0"/>
+
+<ConfirmLogOff value="1"/>
+
+<Undock value="0"/>
+
+<Search value="0"/>
+
+<Help value="0"/>
+
+<Run value="0"/>
+
+<RecentPrograms value="None"/>
+
+<EnableJumplists value="0"/>
+
+<JumplistKeys value="Select"/>
+
+<HighlightNew value="0"/>
+
+<HighlightNewApps value="1"/>
+
+<EnableDragDrop value="1"/>
+
+<ScrollType value="Auto"/>
+
+<ShowNextToTaskbar value="1"/>
+
+<ReportSkinErrors value="1"/>
+
+<SearchPath value="1"/>
+
+<SearchMetroApps value="1"/>
+
+<MainMenuAnimation value="None"/>
+
+<SubMenuAnimation value="None"/>
+
+<FontSmoothing value="Default"/>
+
+<MenuShadow value="0"/>
+
+<EnableGlass value="0"/>
+
+<SkinC1 value=""/>
+
+<SkinVariationC1 value=""/>
+
+
+-<SkinOptionsC1>
+
+<Line>CAPTION=1</Line>
+
+<Line>USER_IMAGE=0</Line>
+
+<Line>USER_NAME=0</Line>
+
+<Line>CENTER_NAME=0</Line>
+
+<Line>SMALL_ICONS=0</Line>
+
+<Line>LARGE_FONT=0</Line>
+
+<Line>ICON_FRAMES=1</Line>
+
+<Line>OPAQUE=0</Line>
+
+</SkinOptionsC1>
+
+<SkinW7 value=""/>
+
+<SkinVariationW7 value=""/>
+
+
+-<SkinOptionsW7>
+
+<Line>USER_IMAGE=1</Line>
+
+<Line>SMALL_ICONS=0</Line>
+
+<Line>LARGE_FONT=0</Line>
+
+<Line>ICON_FRAMES=1</Line>
+
+<Line>OPAQUE=0</Line>
+
+<Line>s</Line>
+
+</SkinOptionsW7>
+
+<SkipMetro value="1"/>
+
+<OpenMouseMonitor value="1"/>
+
+</Settings>
